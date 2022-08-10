@@ -50,3 +50,4 @@ See [twmap_style/MOI_OSM_twmap_License.txt](twmap_style/MOI_OSM_twmap_License.tx
     (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
     MAP, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 ```
+- Dockerfile - MIT License
